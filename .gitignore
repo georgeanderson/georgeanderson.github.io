@@ -15,5 +15,5 @@ Icon
 .Trashes
 
 # Vim swap files
-/*.swp
+*.swp
 

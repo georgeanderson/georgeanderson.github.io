@@ -12,7 +12,7 @@ the command line directly without having to deal with HTML formatting. Another n
 about hosting in GitHub is that my repository and website sit together in the same place.
 
 In the first version it should just plain Jekyll defaults with no social interaction. The
-idea is to gradually add common blog functionalities like commenta (I hope there is a
+idea is to gradually add common blog functionalities like comments (I hope there is a
 disqus plugin out there), twitter, LinkedIn, PSN and others - no Facebook please.
 
 Let's see how this works in the coming weeks. That's it for now.
