@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Ruby on Rails - Easy Setup on Ubuntu
-tags:
-- ruby rails linux
+categories: post
+tags: ruby rails linux
 ---
+
 Today I had my first experience with Ruby on Rail in a RHOK event. After a terrible experience trying to setup the environment on a Windows 7 box, I came home and started to build my own environment on a Ubuntu 10.10 system.
 The project I am up to contribute is the letshelp.it and it has a few version constraints:
 Ruby 1.8.7

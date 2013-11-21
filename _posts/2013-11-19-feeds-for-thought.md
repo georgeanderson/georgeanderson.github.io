@@ -2,7 +2,8 @@
 layout: post
 title:  "Feeds for Thought"
 date:   2013-11-19 06:31:55
-categories: links
+categories: post
+tags: about link
 ---
 
 The death of Google Reader was not able to pull me away from RSS feeds. I had switched to Feedly even before Google announced the intentions to shutdown Reader. I'm very picky with the feeds I subscribe so I'm not overwhelmed with items I will never be able to consume. I highlight a couple of them below.

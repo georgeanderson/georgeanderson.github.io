@@ -2,7 +2,8 @@
 layout: post
 title:  "Websites I visit regularly"
 date:   2013-11-17 06:44:55
-categories: links
+categories: post
+tags: about links
 ---
 
 I have this routine in place for many years now and I don't really know when it started or how. Every week I access this fixed list of websites, one for each week day. The one per day restriction is there to avoid procrastination, however it is not religiously followed.

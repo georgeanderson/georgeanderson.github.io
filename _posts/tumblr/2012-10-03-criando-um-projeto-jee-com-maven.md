@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Criando um Projeto JEE com Maven
-tags:
-- maven java jee
+categories: post
+tags: maven java jee
 ---
+
 A algumas semanas uns colegas no trabalho receberam a incubência de criar uma aplicação do zero. A decisão foi por fazer uma aplicação JEE, utilizando JSF no front-end e EJB + JPA no back-end. Fui acionado para dar uma consultoria ao time e então nos reunimos para revisar pontos importantes da arquitetura, design e execução do projeto. Quando o assunto entrou em build, eu e outro amigo que também estava como consultor fomos unânimes em indicar o Maven. Como grande parte do time não tinha conhecimento no assunto, foi então que propus a seguinte estrutura.
 Primeiro preferi adotar a última versão do Maven (no momento a 3.0.4). Segundo tentei usar um arquétipo padrão fornecido pelo próprio Maven[1], o maven-archetype-j2ee-simple.
 

@@ -2,7 +2,8 @@
 layout: post
 title:  "My First Jekyll Post"
 date:   2013-06-21 15:18:55
-categories: jekyll update
+categories: post
+tags: jekyll update
 ---
 
 This is my first post using Jekyll. I intend to use GitHub to host my personal website. I
