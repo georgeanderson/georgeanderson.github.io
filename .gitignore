@@ -17,3 +17,5 @@ Icon
 # Vim swap files
 *.swp
 
+#Sublime files
+*.sublime*
