@@ -38,7 +38,7 @@ And then let `npm` do its work and download the dependencies for me:
 $npm install -d
 {% endhighlight %}
 
-Next step was to add a call to mocha in my `Makefile` using the **BDD** interface. By default mocha will look for tests under `./test/*` folder so we don't need specify a path.
+Next step was to add a call to mocha in my `Makefile` using the **BDD** interface. By default mocha will look for tests under `./test/*` folder so we don't need to specify a path.
 
 {% highlight makefile %}
 test:
