@@ -32,13 +32,13 @@ I want to build the simplest time tracking tool possible. The immediate need I h
 }
 {% endhighlight %}
 
-And then let `npm` do the work for me:
+And then let `npm` do its work and download the dependencies for me:
 
 {% highlight console %}
 $npm install -d
 {% endhighlight %}
 
-Next step was to add it to my `Makefile` using the **BDD** interface. By default mocha will look for tests under `./test/*` folder.
+Next step was to add a call to mocha in my `Makefile` using the **BDD** interface. By default mocha will look for tests under `./test/*` folder so we don't need specify a path.
 
 {% highlight makefile %}
 test:
