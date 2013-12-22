@@ -26,7 +26,7 @@ I want to build the simplest time tracking tool possible. The immediate need I h
   },
   "keywords": [
     "crispy",
-    "ndoejs",
+    "nodejs",
     "timesheet"
   ]
 }
