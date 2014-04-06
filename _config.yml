@@ -1,3 +1,9 @@
 name: George Anderson
 pygments: true
 paginate: 5
+
+#RSS generator plugin
+name: "George Anderson"
+url: "http://georgeanderson.com.br"
+description: "George Anderson Guimarães"
+author: "George Anderson"
